@@ -1,0 +1,26 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "first steps",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivaant/NodeTest.git"
+  },
+  "author": "Sergiy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ivaant/NodeTest/issues"
+  },
+  "homepage": "https://github.com/Ivaant/NodeTest#readme",
+  "devDependencies": {
+    "eslint": "^6.6.0"
+  },
+  "dependencies": {
+    "common": "^0.2.5",
+    "metarhia": "0.0.1"
+  }
+}
